@@ -1,0 +1,27 @@
+.main-header {
+    margin: 0;
+    padding: 0;
+    height: 320px;
+    background-color: #f1f5f8;
+}
+
+.main-header-stripe {
+    max-height: 43px;
+    background-color: #293448;
+    
+}
+
+
+.clearfix {
+    content: '';
+    
+    display: table;
+    clear: both;     
+} 
+    
+
+.container {
+    width: 940px;
+    margin: 0 auto;
+    padding: 0 10px;    
+}
